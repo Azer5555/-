@@ -2,7 +2,7 @@
 name: User Story
 about: 'Ваша идеальная user story должна выглядеть так:'
 title: ''
-labels: ТРПО
+labels: ТРПО, User Story
 assignees: Azer5555
 
 ---
